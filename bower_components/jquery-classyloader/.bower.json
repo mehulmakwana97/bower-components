@@ -1,0 +1,19 @@
+{
+  "name": "jquery-classyloader",
+  "version": "1.2.3",
+  "main": [
+    "js/jquery.classyloader.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.2"
+  },
+  "_cacheHeaders": {
+    "ETag": "\"41aecea0f1b10177f7cb9cd11bc2866bbc9da5b5\"",
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=jquery-classyloader-master.zip"
+  },
+  "_release": "e-tag:41aecea0f",
+  "_source": "https://github.com/robdvr/jquery-classyloader/archive/master.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/robdvr/jquery-classyloader/archive/master.zip"
+}
